@@ -1,0 +1,6 @@
+{
+  "name": "rethinkdb-ensure",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {}
+}
